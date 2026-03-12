@@ -4,9 +4,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
