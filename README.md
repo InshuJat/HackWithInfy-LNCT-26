@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/InshuJat/HackWithInfy-LNCT-26/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
